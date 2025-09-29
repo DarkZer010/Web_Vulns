@@ -16,7 +16,9 @@ Uso
 
 1. Clone o repositório: `git clone https://github.com/DarkZer010/Web_Vulns.git`
 2. Configure o ambiente: `use ngrok`
+   
 3. Faça um localhost de php (qualquer porta) `php -d allow_url_fopen=On -S localhost:PORTA`
+   
 4- configure o ngrok (TERMUX) ./ngrok http <PORTA>
 
 ## Contribua
